@@ -7,7 +7,7 @@
 
 - 👨‍💻 **All of my projects are available at :** [https://github.com/SumanChakraborty1998/](https://github.com/SumanChakraborty1998/)
 
-- 💬 **Ask me about :** JavaScript, React, Data Structures and Algorithms
+- 💬 **Ask me about :** Data Structures and Algorithms, JavaScript, React
 
 - 📄 **Find my Resume :** [http://tiny.cc/want_to_know_suman](http://tiny.cc/want_to_know_suman)
 
