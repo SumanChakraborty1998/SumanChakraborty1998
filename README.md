@@ -19,7 +19,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me around the web</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/suman-chakraborty-699308120/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="https://www.linkedin.com/in/suman-chakraborty-699308120/" height="30" width="40" /></a>
 <a href="https://medium.com/@sumanchakra8145.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="@sumanchakra8145.medium.com" height="30" width="40" /></a>
@@ -27,7 +27,7 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="30" height="30"/> </a> 
