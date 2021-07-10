@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanchakraborty1998&label=Profile%20views&color=0e75b6&style=flat" alt="sumanchakraborty1998" /> </p>
 
-- 🌱 I’m currently learning : **Node, Express, MongoDB**
+- 🌱 **I’m currently learning :** Node, Express, MongoDB
 
-- 👨‍💻 All of my projects are available at : [https://github.com/SumanChakraborty1998/](https://github.com/SumanChakraborty1998/)
+- 👨‍💻 **All of my projects are available at :** [https://github.com/SumanChakraborty1998/](https://github.com/SumanChakraborty1998/)
 
-- 💬 Ask me about : **JavaScript, React, Data Structures and Algorithms**
+- 💬 **Ask me about :** JavaScript, React, Data Structures and Algorithms
 
-- 📄 Find my Resume : [http://tiny.cc/want_to_know_suman](http://tiny.cc/want_to_know_suman)
+- 📄 **Find my Resume :** [http://tiny.cc/want_to_know_suman](http://tiny.cc/want_to_know_suman)
 
-- 🥅 2021 Goals : **Learning new things and contribute more**
+- 🥅 **2021 Goals :** Learning new things and contribute more
 
-- ⚡ Fun fact : **I'm a Foody Person**
+- ⚡ **Fun fact :** I'm a Foody Person
 
 
 <h3 align="left">Find me around the web</h3>
