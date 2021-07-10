@@ -9,7 +9,7 @@
 
 - 💬 Ask me about : **JavaScript, React, Data Structures and Algorithms**
 
-- 📄 Know about my experiences : [http://tiny.cc/want_to_know_suman](http://tiny.cc/want_to_know_suman)
+- 📄 Find my Resume : [http://tiny.cc/want_to_know_suman](http://tiny.cc/want_to_know_suman)
 
 - 🥅 2021 Goals : **Learning new things and contribute more**
 
