@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **reachout2suman@gmail.com**
 
-- ⚡ Fun fact **Foody**
+- ⚡ Fun fact **I'm Foody Person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
