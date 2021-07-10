@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suman</h1>
 <h3 align="center">A self-motivated Competent-Developer with Problem-Solving Capability</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanchakraborty1998&label=Profile%20views&color=0e75b6&style=flat" alt="sumanchakraborty1998" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React, Redux, Node, Express, MongoDB, Data Structures and Algorithms**
+- 🌱 I’m currently learning **Node, Express, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SumanChakraborty1998/](https://github.com/SumanChakraborty1998/)
 
@@ -10,11 +11,18 @@
 
 - 📫 How to reach me **reachout2suman@gmail.com**
 
-- ⚡ Fun fact **I'm Foody Person**
+- 📄 Know about my experiences [http://tiny.cc/want_to_know_suman](http://tiny.cc/want_to_know_suman)
+
+- ⚡ Fun fact **I'm a Foody Person**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/suman-chakraborty-699308120/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suman-chakraborty-699308120/" height="30" width="40" /></a>
+<a href="https://medium.com/@sumanchakra8145.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sumanchakra8145.medium.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanchakraborty1998&show_icons=true&locale=en" alt="sumanchakraborty1998" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanchakraborty1998&" alt="sumanchakraborty1998" /></p>
->
