@@ -15,9 +15,6 @@
 
 - ⚡ Fun fact : **I'm a Foody Person**
 
-<!-- ### Blogs posts 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Find me around the web</h3>
 <p align="left">
@@ -45,8 +42,16 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SumanChakraborty1998&show_icons=true&locale=en&layout=compact" alt="sumanchakraborty1998" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SumanChakraborty1998&show_icons=true&locale=en&layout=compact" alt="sumanchakraborty1998"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanchakraborty1998&show_icons=true&locale=en" alt="sumanchakraborty1998" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanchakraborty1998&show_icons=true&locale=en" alt="sumanchakraborty1998" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanchakraborty1998&" alt="sumanchakraborty1998" /></p>
+
+
+
+### Blogs posts 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
