@@ -21,7 +21,7 @@
 
 <h3 align="left">Find me around the web</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suman-chakraborty-699308120/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="https://www.linkedin.com/in/suman-chakraborty-699308120/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suman-chakraborty-699308120/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="https://www.linkedin.com/in/suman-chakraborty-699308120/" height="30" width="40" /></a>
 <a href="https://medium.com/@sumanchakra8145.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="@sumanchakra8145.medium.com" height="30" width="40" /></a>
 <a href="https://medium.com/@sumanchakra8145.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hashnode.svg" alt="https://hashnode.com/@way2reachsuman" height="30" width="40" /></a>
 </p>
