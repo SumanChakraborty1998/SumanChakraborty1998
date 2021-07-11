@@ -1,7 +1,20 @@
 <h1 align="center">Hi 👋, I'm Suman</h1>
 <h3 align="center">A self-motivated Competent-Developer with Problem-Solving Capability</h3>
 
+
+<p align= "center">
+
+<img src="https://img.shields.io/badge/JS-Javascript-red"/>
+<img src="https://img.shields.io/badge/React-React-blue"/>
+<img src="https://img.shields.io/badge/Node-node-green"/>
+<img src="https://img.shields.io/badge/express-Express-blueviolet"/>
+<img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
+</p>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanchakraborty1998&label=Profile%20views&color=0e75b6&style=flat" alt="sumanchakraborty1998" /> </p>
+
 
 - 🌱 **I’m currently learning :** Node, Express, MongoDB
 
