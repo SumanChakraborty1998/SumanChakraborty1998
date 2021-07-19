@@ -73,9 +73,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SumanChakraborty1998&show_icons=true&locale=en&layout=compact" alt="sumanchakraborty1998"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanchakraborty1998&show_icons=true&locale=en" alt="sumanchakraborty1998" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SumanChakraborty1998&show_icons=true&locale=en" alt="sumanchakraborty1998" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanchakraborty1998&" alt="sumanchakraborty1998" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SumanChakraborty1998&" alt="sumanchakraborty1998" /></p>
 
 
 
