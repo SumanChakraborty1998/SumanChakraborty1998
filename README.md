@@ -22,7 +22,7 @@
 
 - 💬 **Ask me about :** Data Structures and Algorithms, JavaScript, React
 
-- 📄 **Find my Resume :** [http://tiny.cc/suman_chakraborty_resume](http://tiny.cc/suman_chakraborty_resume)
+- 📄 **Find my Resume :** [http://tiny.cc/suman_chakra_resume](http://tiny.cc/suman_chakra_resume)
 
 - 🥅 **2021 Goals :** Learning new things and contribute more
 
