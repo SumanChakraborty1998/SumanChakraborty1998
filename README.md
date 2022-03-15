@@ -24,7 +24,7 @@
 
 - 📄 **Find my Resume :** [http://tiny.cc/suman_chakra_resume](http://tiny.cc/suman_chakra_resume)
 
-- 🥅 **2021 Goals :** Learning new things and contribute more
+- 🥅 **2022 Goals :** Learning new things and contribute more
 
 - ⚡ **Fun fact :** I'm a Foody Person
 
