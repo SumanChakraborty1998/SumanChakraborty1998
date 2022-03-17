@@ -17,15 +17,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanchakraborty1998&label=Profile%20views&color=0e75b6&style=flat" alt="sumanchakraborty1998" /> </p>
 
 
-- 🌱 **I’m currently learning :** Node, Express, MongoDB
+- 🌱 **I’m currently learning :** Blockchain Development, Web3, DEFI
 
 - 👨‍💻 **All of my projects are available at :** [https://github.com/SumanChakraborty1998/](https://github.com/SumanChakraborty1998/)
 
-- 💬 **Ask me about :** Data Structures and Algorithms, JavaScript, React
+- 💬 **Ask me about :** Blockchain, JavaScript, React
 
 - 📄 **Find my Resume :** [http://tiny.cc/suman_chakra_resume](http://tiny.cc/suman_chakra_resume)
 
-- 🥅 **2022 Goals :** Learning new things and contribute more
+- 🥅 **2022 Goals :** Explore more in Decentralized Application
 
 - ⚡ **Fun fact :** I'm a Foody Person
 
