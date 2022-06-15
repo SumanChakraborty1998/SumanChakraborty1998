@@ -21,7 +21,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=SumanChakraborty1998&label=Profile%20views&color=0e75b6&style=flat" alt="sumanchakraborty1998" /> </p> -->
 
-- 🌱 **I’m currently learning :** Blockchain Development, Web3, DAO's, DEFI
+- 🌱 **I’m currently learning :** Solidity Smart Contracts Development, Web3, Blockchain
 
 - 🌟 **Actively looking for :** Blockchain Engineer role where everyday will be a learning experience.
 
