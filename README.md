@@ -31,7 +31,7 @@
 
 - 📄 **Find my Resume :** [http://tiny.cc/suman_chakra_resume](http://tiny.cc/suman_chakra_resume)
 
-- 🥅 **2022 Goals :** Exploring in the Web3 Domain.
+- 🥅 **2022 Goals :** Exploring the Web3 Domain.
 
 - ⚡ **Fun fact :** I'm a Foody Person.
 
