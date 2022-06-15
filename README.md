@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suman</h1>
-<h3 align="center">A Blockchain Engineer with Problem-Solving Capability</h3>
+<h3 align="center">Blockchain Engineer with Problem-Solving Capability</h3>
 
 <p align= "center">
 
