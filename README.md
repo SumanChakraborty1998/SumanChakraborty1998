@@ -1,73 +1,75 @@
 <h1 align="center">Hi 👋, I'm Suman</h1>
-<h3 align="center">A self-motivated Competent-Developer with Problem-Solving Capability</h3>
-
+<h3 align="center">A Blockchain Engineer with Problem-Solving Capability</h3>
 
 <p align= "center">
 
-<img src="https://img.shields.io/badge/JS-Javascript-red"/>
 <img src="https://img.shields.io/badge/React-React-blue"/>
-<img src="https://img.shields.io/badge/Node-node-green"/>
+<img src="https://img.shields.io/badge/Redux-Redux-firebrick"/>
+<!-- <img src="https://img.shields.io/badge/JS-Javascript-red"/> -->
+<!-- <img src="https://img.shields.io/badge/Node-node-green"/>
 <img src="https://img.shields.io/badge/express-Express-blueviolet"/>
-<img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
-<img src="https://img.shields.io/static/v1?label=Blockchain&message=Blockchain&color=red"/>
+<img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/> -->
+<img src="https://img.shields.io/badge/Solidity-Solidity-mediumblue"/>
+<img src="https://img.shields.io/badge/Web3-Web3-red"/>
+<img src="https://img.shields.io/badge/Ethereum-Ethereum-magenta"/>
+<img src="https://img.shields.io/badge/Ethers.js-Ethers.js-indigo"/>
+<img src="https://img.shields.io/badge/Web3.js-Web3.js-maroon"/>
+<img src="https://img.shields.io/badge/Hardhat-Hardhat-peru"/>
+<img src="https://img.shields.io/badge/Truffle-Truffle-orangered"/>
+<img src="https://img.shields.io/badge/Ganache-Ganache-seagreen"/>
 </p>
 
-
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=SumanChakraborty1998&label=Profile%20views&color=0e75b6&style=flat" alt="sumanchakraborty1998" /> </p> -->
-
 
 - 🌱 **I’m currently learning :** Blockchain Development, Web3, DAO's, DEFI
 
 - 👨‍💻 **All of my projects are available at :** [https://github.com/SumanChakraborty1998/](https://github.com/SumanChakraborty1998/)
 
-- 💬 **Ask me about :** Blockchain, JavaScript, React
+- 💬 **Ask me about :** React, JavaScript, Solidity
 
 - 📄 **Find my Resume :** [http://tiny.cc/suman_chakra_resume](http://tiny.cc/suman_chakra_resume)
 
-- 🥅 **2022 Goals :** Explore more in Decentralized Application
+- 🥅 **2022 Goals :** Exploring in the Web3 Domain
 
 - ⚡ **Fun fact :** I'm a Foody Person
 
-
 <h3 align="left">Find me around the web</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/suman-chakraborty-699308120/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="https://www.linkedin.com/in/suman-chakraborty-699308120/" height="30" width="40" /></a>
-<a href="https://sumanchakra8145.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="@sumanchakra8145.medium.com" height="30" width="40" /></a>
-<a href="https://hashnode.com/@way2reachsuman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hashnode.svg" alt="https://hashnode.com/@way2reachsuman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suman-chakraborty-699308120/" target="blank"><img align="center" src="./Images/linkedin.svg" alt="https://www.linkedin.com/in/suman-chakraborty-699308120/" height="30" width="40" /></a>
+<!--  -->
+<a href="https://sumanchakra8145.medium.com/" target="blank"><img align="center" src="./Images/medium2.svg" alt="@sumanchakra8145.medium.com" height="30" width="40" /></a>
+<!--  -->
+<a href="https://hashnode.com/@way2reachsuman" target="blank"><img align="center" src="./Images/hashnode.svg" alt="https://hashnode.com/@way2reachsuman" height="30" width="40" /></a>
+
 </p>
 
-
 <h3 align="left">Languages and Tools</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="30" height="30"/> </a> 
-  <span/>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> </a> 
-  <span/>
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a>
-  <span/>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
-  <span/>
-  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a>
-  <span/>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>
-  <span/>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
-  <span/>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
-  <span/>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a> 
-  <span/>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </a>
-  <span/>
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
-  <span/>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>
-  <span/>
-  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/> </a> 
-  <span/>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a> 
+<p align="left" >
+  <!--  -->
+  <a href="https://reactjs.org/" target="_blank"> <img src="./Images/react.svg" alt="react" width="50" height="50"/> </a>
+  <!--  -->
+  <a href="https://redux.js.org" target="_blank"> <img src="./Images/redux.svg" alt="redux" width="50" height="50"/> </a> 
+  <!--  -->
+  <a href="https://mui.com/" target="_blank"> <img src="./Images/mui.svg" alt="material ui" width="50" height="50"/> </a>
+  <!--  -->
+  <a href="https://docs.soliditylang.org/en/v0.8.15/" target="_blank"> <img src="./Images/solidity.svg" alt="solidity" width="50" height="50"/> </a>
+  <!--  -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./Images/js.svg" alt="javascript" width="50" height="50"/> </a>
+  <!--  -->
+  <a href="https://ethereum.org/en/developers/docs/" target="_blank"> <img src="./Images/ethereum.svg" alt="ethereum" width="50" height="50"/> </a>
+  <!--  -->
+  <a href="https://hardhat.org/" target="_blank"> <img src="./Images/hardhat.png" alt="Hardhat" width="50" height="50"/> </a>
+  <!--  -->
+  <a href="https://trufflesuite.com/ganache/" target="_blank"> <img src="./Images/ganache.png" alt="Ganache" width="50" height="50"/> </a>
+  <!--  -->
+  <a href="https://trufflesuite.com/" target="_blank"> <img src="./Images/truffle.png" alt="Truffle" width="50" height="50"/> </a>
+  <!--  -->
+  <a href="https://www.openzeppelin.com/contracts" target="_blank"> <img src="./Images/openzeppelin.png" alt="Opnezeppelin" width="50" height="50"/> </a>
+  <!--  -->
+  <a href="https://git-scm.com/" target="_blank"> <img src="./Images/git.svg" alt="Git" width="55" height="55"/> </a>
+  <!--  -->
+  <a href="https://github.com/" target="_blank"> <img src="./Images/github.svg" alt="Github" width="55" height="55"/> </a>
+  
 </p>
 
 <p>
@@ -77,8 +79,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SumanChakraborty1998&show_icons=true&locale=en" alt="sumanchakraborty1998" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SumanChakraborty1998&" alt="sumanchakraborty1998" /></p>
-
-
 
 <!--### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
