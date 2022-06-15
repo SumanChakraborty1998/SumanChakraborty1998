@@ -23,15 +23,18 @@
 
 - 🌱 **I’m currently learning :** Blockchain Development, Web3, DAO's, DEFI
 
+- 🌟 **Actively looking for :** Blockchain Engineer role where everyday will be a learning experience.
+
 - 👨‍💻 **All of my projects are available at :** [https://github.com/SumanChakraborty1998/](https://github.com/SumanChakraborty1998/)
 
 - 💬 **Ask me about :** React, JavaScript, Solidity
 
 - 📄 **Find my Resume :** [http://tiny.cc/suman_chakra_resume](http://tiny.cc/suman_chakra_resume)
 
-- 🥅 **2022 Goals :** Exploring in the Web3 Domain
+- 🥅 **2022 Goals :** Exploring in the Web3 Domain.
 
-- ⚡ **Fun fact :** I'm a Foody Person
+- ⚡ **Fun fact :** I'm a Foody Person.
+
 
 <h3 align="left">Find me around the web</h3>
 <p align="left">
