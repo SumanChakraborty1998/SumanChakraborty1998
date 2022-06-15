@@ -79,6 +79,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SumanChakraborty1998&show_icons=true&locale=en" alt="sumanchakraborty1998" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SumanChakraborty1998&" alt="sumanchakraborty1998" /></p>
+<p>
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=SumanChakraborty1998&bg_color=0A1117&color=ffffff&line=1A237E&point=1E88E5&area=true&hide_border=true" alt="sumanchakraborty1998" />
+</p>
 
 <!--### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
